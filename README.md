@@ -3,9 +3,9 @@
 <h2>Introduction</h2>
 For this project, I searched locally for a restaurant's website that was outdated. I then crafted a single page website that emphasized the following:
 
-<li>Ease of use and functionality.</li>
-<li>Updated design esthetic.</li>
-<li> Fully responsive.</li>
+* Ease of use and functionality.
+* Updated design esthetic.
+* Fully responsive.
 
 
 ## Key Technologies
