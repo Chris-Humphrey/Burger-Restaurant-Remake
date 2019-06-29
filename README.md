@@ -1,4 +1,4 @@
-<h1>Blackjack Game</h1>
+<h1>Restaurant Remake</h1>
 
 <h2>Introduction</h2>
 For this project, I searched locally for a restaurant's website that was outdated. I then crafted a single page website that emphasized the following:
